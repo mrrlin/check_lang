@@ -1,0 +1,33 @@
+.main-section {
+  padding: 50px 0;
+}
+
+.form-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form__fieldset {
+  margin-bottom: 10px;
+}
+
+.form__label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form__textarea {
+  display: block;
+  width: 500px;
+  height: 300px;
+}
+
+.form__button {
+  display: block;
+  margin-right: 15px;
+  margin-left: auto;
+  background-color: transparent;
+  border-radius: 5px;
+  padding: 5px 20px;
+}
